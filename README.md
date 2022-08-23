@@ -22,7 +22,7 @@ API Rest implementado no Spring Boot com Java e MySql, onde há um cadastro de p
 ## Apresentação
 
 A API conta com sistema de autenticação por token desenvolvido com o auth2.
-<img src="https://github.com/adrianopavaneli/API-Estoque/blob/main/imagens/1erroautenticacao.jpg" alt="drawing" width="300"/>
+<img src="https://github.com/adrianopavaneli/API-Estoque/blob/main/imagens/1erroautenticacao.jpg" alt="drawing" width="500"/>
 
 
 
